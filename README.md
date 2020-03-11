@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Jianghenchi/R-basic-learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你好
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -16,8 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List
-
+- Li
 1. Numbered
 2. List
 
